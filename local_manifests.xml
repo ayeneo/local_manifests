@@ -3,7 +3,7 @@
 
 <!-- Tracking -->
   <remote name="track" fetch="https://github.com" />
-  <remote name="bams" fetch="https://github.com/donboruza" />
+  <remote name="ayeneo" fetch="https://github.com/ayeneo" />
   <remote name="clang" fetch="https://gitlab.com/ImSurajxD" />
   <remote name="trb" fetch="https://gitlab.com/varunhardgamer" />
 
@@ -14,8 +14,8 @@
   <project path="prebuilts/clang/host/linux-x86/clang-trb" name="trb_clang" remote="trb" revision="16" />
 
 <!-- Trees -->
-  <project path="device/xiaomi/sweet" name="device_sweet" remote="bams" revision="cherish" />
-  <project path="vendor/xiaomi/sweet" name="sweet_vendor" remote="bams" revision="thirteen" />
-  <project path="kernel/xiaomi/sweet" name="kernel_xiaomi_sm6150" remote="bams" revision="test" />
+  <project path="device/samsung/dreamlte" name="device_samsung_dreamlte" remote="ayeneo" revision="cherish" />
+  <project path="vendor/samsung/dreamlte" name="vendor_samsung_dreamlte" remote="ayeneo" revision="thirteen" />
+  <project path="kernel/samsung/universal8895" name="kernel_samsung_universal8895" remote="ayeneo" revision="lineage-20.0" />
 
 </manifest>
