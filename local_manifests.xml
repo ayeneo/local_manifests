@@ -14,7 +14,7 @@
   <project path="prebuilts/clang/host/linux-x86/clang-trb" name="trb_clang" remote="trb" revision="16" />
 
 <!-- Trees -->
-  <project path="device/samsung/dreamlte" name="device_samsung_dreamlte" remote="ayeneo" revision="cherish" />
+  <project path="device/samsung/dreamlte" name="device_samsung_dreamlte" remote="ayeneo" revision="tiramisu" />
   <project path="vendor/samsung/dreamlte" name="vendor_samsung_dreamlte" remote="ayeneo" revision="thirteen" />
   <project path="kernel/samsung/universal8895" name="kernel_samsung_universal8895" remote="ayeneo" revision="lineage-20.0" />
 
